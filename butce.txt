@@ -1,0 +1,4 @@
+Geliriniz: 3000, Kaynak: maaş
+Gideriniz: 1000, Kaynak: fatura
+Geliriniz: 10000, Kaynak: kira
+Gideriniz: 2000, Kaynak: kiraa
